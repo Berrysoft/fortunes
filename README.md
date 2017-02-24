@@ -1,4 +1,4 @@
-## What's different form [original repo](https://github.com/ruanyf/fortunes)? 
+## What's different from [original repo](https://github.com/ruanyf/fortunes)? 
 
 添加了蛤蛤语录. 
 
