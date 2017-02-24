@@ -4,7 +4,7 @@
 
 TBD: 
 
--[ ] 都督语录
+- [ ] 都督语录
 
 ## What is Fortune?
 
