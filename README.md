@@ -1,6 +1,7 @@
 ## What's different from [original repo](https://github.com/ruanyf/fortunes)? 
 
-添加了蛤蛤语录. 
+* 蛤蛤语录
+* 学习强国
 
 ## What is Fortune?
 
