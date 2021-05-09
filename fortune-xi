@@ -1,0 +1,11 @@
+#!/bin/bash
+
+DICT="xixi"
+FORTUNE="/usr/games/fortune"
+
+if [ ! -z $LC_ALL ] 
+then 
+	LANG="$LC_ALL"
+fi
+
+$FORTUNE  $DICT 
