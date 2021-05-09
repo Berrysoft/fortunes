@@ -2,10 +2,6 @@
 
 添加了蛤蛤语录. 
 
-TBD: 
-
-- [ ] 都督语录
-
 ## What is Fortune?
 
 Fortune is a simple Unix program that displays a random message from a database of quotations.
